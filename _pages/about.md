@@ -56,7 +56,7 @@ This is the front page of a website that is powered by the [academicpages templa
 <!-- A data-driven personal website -->
 
 
-1. **Young researcher David Willis Award 2021 ** [award by ATRF](https://australasiantransportresearchforum.org.au/history-of-the-atrf/)
+1. **Young researcher David Willis Award 2021 ** [award by The Australasian Transport Research Forum](https://australasiantransportresearchforum.org.au/history-of-the-atrf/)
 2. **Mobily's Performance and Service Quality Assurance Program Award** for Outstanding Leadership and Invaluable Contribution.
 3. Project Management Professional (License PMP # 2032262
 4. Successfully helped Mobily Operations team of KSA through the certification process of ISO9001:2008.
