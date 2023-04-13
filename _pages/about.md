@@ -16,10 +16,18 @@ redirect_from:
 <!-- Usman Naseem is expected to complete his Ph.D. by the end of 2022 from the [The University of Sydney, Australia](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), under the supervision of [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), [Prof. Adam G. Dunn](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/adam-dunn.html), and [Dr. Matloob Khushi](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/matloob-khushi.html).  Usman obtained his Masters in Analytics (Research) from the [University of Technology Sydney, Australia](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), under the supervision of [Prof. Longbing Cao](https://profiles.uts.edu.au/Longbing.Cao) and [Prof. Kaska Musial](https://profiles.uts.edu.au/Katarzyna.Musial-Gabrys).
  -->
 
-Usman's research interest lies in natural language processing (NLP), specifically in designing computational models for language representation to understand human language and communicate with humans. Prior to persuading his research in NLP, he worked in leading ICT companies, including Nokia and Alcatel-Lucent, for over 10 years.
+The primary focus of Shah's research is cybersecurity, specifically "system-level cybersecurity modelling for Cyber-Physical Systems." His research portfolio includes contributions to studying autonomous systems – Automated Vehicles (AVs), Unmanned Aerial Vehicles, and Unmanned Underwater Vehicles. In addition, his research interests include 5G (mmWave) communication, informatics, and System Dynamics modelling. In essence, Shah's research expertise lies in the convergence of the cybersecurity, automation, and data analytics domains. Before persuading his research, he worked for eight years with leading ICT companies (Huawei, ZTE, and Nokia). He is well-versed in telecom network management, including end-to-end service planning, implementation, and operations.
 
 
-His recent works on NLP are published in highly impactful venues in NLP, including ACL, EMNLP, COLING, WSDM and Webconf. He also served as a session chair for NLP at ICONIP and a program committee member for several top-tier venues, including ACL, EMNLP, NAACL, COLING, Webconf, and AAAi. His recent works on NLP attracted the attention of the World Health Orgnisation and several famous research media and have been deployed in the industry as a tool. In particular, the adoption of his NLP tools during his time as a Research Associate at the Telehealth andTechnology Centre, Nepean Hospital, has led to a better understanding of dialysis patient sentiments, and this work was awarded the Nepean BlueMountains Local Health District (NBMLHD) Board Chair's Quality Award in Research and Innovation in 2021. Recently, he won the Best Transactions Paper Award by IEEE SMS Scoeity.
+His work on the cybersecurity of AVs has been published in highly impactful and prestigious venues, such as Accident Analysis & Prevention, Nature Scientific Report, the International Symposium on Connected and Autonomous Vehicles, the Australasian Transport Research Forum (ATRF), the World Conference on Transport Research Society (WCTRS), and the Annual Transportation Research Board Conference.
+
+
+He developed a communication framework for AVs, widely referenced for assessing cyber-attack vectors on AVs. Similarly, he established a cybersecurity conceptual framework for AVs using System dynamic modelling, which he also presented at the Premier ITS Australia Summit 2022. Subsequently, several academics and industry researchers adopted the methodology for assessing the cybersecurity of complex autonomous systems. Moreover, he developed a paradigm to address the AV Industry's most concerning challenge – liability claims arising from AV Level 4-5 (on-vehicle computer control) incidents, setting a valuable precedent for researchers. His work on "The role of unmanned aerial vehicles and mmWave in 5G" is the top downloaded article in TRANSACTIONS ON EMERGING TELECOMMUNICATIONS TECHNOLOGIES.
+He won the "young researcher David Willis Award" for his contribution to advancing the knowledge base of "cybersecurity of complex systems" by developing a simulated model and scenario analysis tool for AVs. In addition to his theoretical contribution, the data collection and analysis from the US, UK, Australian, and New Zealand participants provide a baseline for the adoption and deployment of AVs in these countries. The work is a direct application of the Automotive Engineering Graduate Program (AEGP) in Australia.
+
+
+Regarding academic volunteer work, he organized the Transport@RMIT Networking Event at RMIT University in Melbourne, Australia. He served on RMIT University's High Degree Research Committee and Graduate Research Committee. Moreover, he provides services to a number of prestigious academic journals and confernces.
+
 
 
 
@@ -46,13 +54,14 @@ This is the front page of a website that is powered by the [academicpages templa
 <!-- A data-driven personal website -->
 
 
-1. **Andrew P. Sage Best Transactions paper 2022** [award by IEEE SMC Society](https://www.ieeesmc.org/about-smcs/awards/andrew-p-sage-best-transactions-paper/)
-2. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, Australia.
-3. **Scholarship**, Australain Government Research Training Program Scholarship, 2021-2023.
-4. **Postgraduate Research Supplementary scholarship**, University of Sydney, Australia, 2021 & 2022.
-5. **Scholarship**, Australain Government Research Training Program Scholarship, 2018-2020.
-6. **Google Research**: Selected for participation in graduate symposium hosted by Google Research India, 2021. 
-7. **SIGIR 2022 and EMNLP 2022:** Student Volunteer Award
+1. **Young researcher David Willis Award 2021 ** [award by ATRFy] (https://australasiantransportresearchforum.org.au/history-of-the-atrf/)
+2. **Mobily's Performance and Service Quality Assurance Program Award** for Outstanding Leadership and Invaluable Contribution.
+3. Project Management Professional (License PMP # 2032262
+4. Successfully helped Mobily Operations team of KSA through the certification process of ISO9001:2008.
+5. **Scholarship**, Australain Government Research Training Program Scholarship, RMIT University, Melbourne, Australia  2021-2023.
+6. **Postgraduate Research Supplementary scholarship** Automotive Engineering Graduate Program (AEGP) 2021-2023
+8. **Scholarship**, Australain Government Research Training Program Scholarship, RMIT University, Melbourne, Australia 2018-2020.
+9. **Top downloaded article** The role of unmanned aerial vehicles and mmWave in 5G" is the top downloaded article in TRANSACTIONS ON EMERGING TELECOMMUNICATIONS TECHNOLOGIES.
 
 
 <!-- 7. **Nominated for Best Transactions Paper Award** by IEEE SMC Society  -->
