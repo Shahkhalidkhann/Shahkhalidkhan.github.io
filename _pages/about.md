@@ -23,6 +23,8 @@ His work on the cybersecurity of AVs has been published in highly impactful and 
 
 
 He developed a communication framework for AVs, widely referenced for assessing cyber-attack vectors on AVs. Similarly, he established a cybersecurity conceptual framework for AVs using System dynamic modelling, which he also presented at the Premier ITS Australia Summit 2022. Subsequently, several academics and industry researchers adopted the methodology for assessing the cybersecurity of complex autonomous systems. Moreover, he developed a paradigm to address the AV Industry's most concerning challenge – liability claims arising from AV Level 4-5 (on-vehicle computer control) incidents, setting a valuable precedent for researchers. His work on "The role of unmanned aerial vehicles and mmWave in 5G" is the top downloaded article in TRANSACTIONS ON EMERGING TELECOMMUNICATIONS TECHNOLOGIES.
+
+
 He won the "young researcher David Willis Award" for his contribution to advancing the knowledge base of "cybersecurity of complex systems" by developing a simulated model and scenario analysis tool for AVs. In addition to his theoretical contribution, the data collection and analysis from the US, UK, Australian, and New Zealand participants provide a baseline for the adoption and deployment of AVs in these countries. The work is a direct application of the Automotive Engineering Graduate Program (AEGP) in Australia.
 
 
