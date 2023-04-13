@@ -58,10 +58,10 @@ This is the front page of a website that is powered by the [academicpages templa
 
 1. **Young researcher David Willis Award 2021 ** [award by The Australasian Transport Research Forum](https://australasiantransportresearchforum.org.au/history-of-the-atrf/)
 2. **Mobily's Performance and Service Quality Assurance Program Award** for Outstanding Leadership and Invaluable Contribution.
-3. Project Management Professional (License PMP # 2032262
+3. Project Management Professional (License PMP # 2032262)
 4. Successfully helped Mobily Operations team of KSA through the certification process of ISO9001:2008.
 5. **Scholarship**, Australain Government Research Training Program Scholarship, RMIT University, Melbourne, Australia  2021-2023.
-6. **Postgraduate Research Supplementary scholarship** Automotive Engineering Graduate Program (AEGP) 2021-2023
+6. **Postgraduate Research scholarship** Australain Automotive Engineering Graduate Program (AEGP) 2021-2023
 8. **Scholarship**, Australain Government Research Training Program Scholarship, RMIT University, Melbourne, Australia 2018-2020.
 9. **Top downloaded article** The role of unmanned aerial vehicles and mmWave in 5G" is the top downloaded article in TRANSACTIONS ON EMERGING TELECOMMUNICATIONS TECHNOLOGIES.
 
