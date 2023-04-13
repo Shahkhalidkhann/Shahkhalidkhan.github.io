@@ -72,116 +72,7 @@ This is the front page of a website that is powered by the [academicpages templa
 <!-- 5. 6. 4. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, 2020. -->
 <!-- **Collaboration** -->
 
-## News
 
-
-**January-2023:**: One full paper is accepted @Webconf (WWW) 2023
-
-**January-2023:**: A tutorial is accepted @Webconf (WWW) 2023.
-
-**January-2023:**: Invited to serve as a AC @ACL 2023,
-
-**January-2023:** Selected to give a talk at the Rising Stars in AI Symposium 2023
-
-**January-2023:**: Invited to serve as a PC member @SIGIR 2023,
-
-**January-2023:**: Invited to serve as a PC member @MICCAI 2023,
-
-<!-- **December-2022:** Selected to give a talk at the Rising Stars in AI Symposium 2023 -->
-
-<!-- **December-2022:** Selected to give a talk at the Rising Stars in AI Symposium 2023 -->
-
-**December-2022:** Invited to serve as a PC member @ICWSM 2023,
-
-<!-- **October-2022:** Won ${\color{red}{Andrew\ P.\ Sage\ BEST\ Transactions\ 2022\ paper\ award} by\ IEEE\ SMC\ Society}$ -->
-
-**November-2022:** 2 full papers accepted at AAAi'23
-
-**October-2022:** One full paper is accepted at WSDM 2023
-
-**October-2022:** Won Andrew P. Sage BEST Transactions 2022 paper award by IEEE SMC Society
-
-**October-2022:** One paper is accepted in CASE at EMNLP 2023
-
-**October-2022:** Invited to serve as a session chair at DSAA 2022
-
-**October-2022:** Delivered a invited talk at [NLP Summit 2022](https://www.nlpsummit.org/)  on Language models for Public Health Surveillance  (link coming soon)
-
-<!-- **October-2022:** Won ${\color{red}{Andrew\ P.\ Sage\ BEST\ Transactions\ 2022\ paper\ award} by\ IEEE\ SMC\ Society}$ -->
-
-**September-2022:** Invited to serve as a PC member @Webconf 2022 (Web and Society) and (Web4Good) tracks,
-
-**August-2022:** 1 paper is accepted in COLING'22,
-
-**August-2022:** Invited to serve as a PC member @AAAi 2022,
-
-**August-2022:** COVIDSenti paper has been ranked #1 for 12 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
-
-<!-- **July-2022:** Invited as a speaker at [NLP Summit 2022](https://www.nlpsummit.org/) on the topic of “A pretrained language model for public health surveillance on social media”, -->
-
-<!-- **July-2022:** Invited as a speaker at [NLP Summit 2022](https://www.nlpsummit.org/)  -->
-
-<!-- **July-2022:** COVIDSenti paper has been ranked #1 for 11 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
- -->
-<!-- **June-2022:** Invited to serve as a PC member @EMNLP 2022, -->
-
-**June-2022:** 2 full papers are accepted at IEEE Transactions on Computational Social Systems
-
-**June-2022:** 1 full paper is accepted in the BMC Bioinformatics journal
-
-<!-- **June-2022:** COVIDSenti paper has been ranked #1 for 10 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details! -->
-
-**June-2022:** Invited to serve as a PC member @ICONIP 2022,
-
-<!-- **June-2022:** Invited to serve as a PC member for DSAI4RRS 2022 @KDD2022, -->
-
-**May-2022:**  Invited to serve as a PC member @COLING 2022,
-
-**May-2022:** 1 full paper is accepted at IEEE Transactions on Artificial Intelligence
-
-<!-- **May-2022:** Invited to serve as a PC member for ICWSM 2023 -->
-
-<!-- **March-2022:** Invited to serve as a PC member for LXNLP 2022 @NAACL2022, -->
-
-**April-2022:** 1 paper accepted at the ACL 2022 NLP-Power Workshop
-
-<!-- **March-2022:** Invited to serve as a PC member for LXNLP 2022 @NAACL2022, -->
-
-**March-2022:** 1 full paper is accepted in the BMC Bioinformatics journal
-
-**March-2022:** Invited to serve as a PC member for MM 2022
-
-<!-- **March-2022:** Invited to serve as a PC member for ECML/PKDD 2022  -->
-
-**March-2022:** 1 full paper accepted in the IEEE Journal of Biomedical and Health Informatics 
-
-**Feburary-2022:** Invited to serve as a PC member for MICCAI 2022
-
-**Feburary-2022:** Invited to serve as a PC member for LREC 2022
-
-**Feburary-2022:** Invited to serve as a PC member for ICWSM 2022
-
-**January-2022:** 2 full papers accepted at the Webconf'22 (formerly knowns as WWW)
-
-<!-- **Popular paper:** Our COVIDSenti paper has been ranked as the most popular paper for conitnous 10 months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details! -->
-
-<!-- -- Invited to serve as a PC member for ACL 2022 Workshop LT-EDI, -->
-
-<!-- -- Invited to serve as a PC member for NAACL 2022, -->
-
-<!-- -- Invited to serve as a PC member for MICCAI 2022,
-
-<!--- Invited to serve as a PC member for LREC 2022 -->
-
-<!--- Invited to serve as a PC member for ICWSM 2022,
-   
-<!--- 2 full papers accepted at the Webconf'22 (formerly knowns as WWW)
-
-<!-- -- 1 full paper accepted at the ICDM NeuRec Workshop 2021 -->
-
-<!-- -- Our COVIDSenti paper has been ranked as the most popular paper for conitnous 9 months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details! -->
-
-For more details please see [publications page](https://usmaann.github.io//publications/)
 
 ## Contact
 
@@ -193,13 +84,6 @@ Feel free to contact me at shah.khalid.khan2@rmit.edu.au; shahkhalid_k@yahoo.com
 <!-- <div class="zcal-inline-widget"><a href="https://zcal.co/i/eKQ5SiB_">Click here to schedule a 30 Minute Meeting - Schedule a meeting</a></div> -->
 <!-- **For meeting** -->
 <!--  <div class="zcal-inline-widget"><a href="https://zcal.co/i/eKQ5SiB_">30 Minute Meeting - Schedule a meeting</a></div> -->
-
-
-<a class="twitter-timeline" data-width="650" data-height="250" data-theme="light" href="https://twitter.com/UsmanNaseem87?ref_src=twsrc%5Etfw">Tweets by UsmanNaseem87</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<a href='https://clustrmaps.com/site/1bma2'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=3f8c8b&w=569&t=n&d=kSAQYthHj2HY4LzKVPZ4IGEQ-Zg5heY8TnCchEkLQvQ&co=ffffff&ct=808080'/></a>
 
 
 
