@@ -185,7 +185,7 @@ For more details please see [publications page](https://usmaann.github.io//publi
 
 ## Contact
 
-Feel free to contact me at usman.naseem@sydney.edu.au if you are interested in working with me or have any questions.
+Feel free to contact me at shah.khalid.khan2@rmit.edu.au; shahkhalid_k@yahoo.com if you are interested in working with me or have any questions.
 
 <!-- <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script> -->
 
