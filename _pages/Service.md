@@ -7,6 +7,27 @@ author_profile: true
 
 **Journal Reviewer**
 
+ Analysis & Prevention
+ 
+Artificial Intelligence Review, 
+
+Transactions on Emerging Telecommunications Technologies,
+
+Vehicular Communications Computer Networks and Communications, 
+
+IEEE Systems Journal,
+
+IET Intelligent Transport Systems, 
+
+International Journal of Adaptive Control and Signal Processing, 
+
+Journal of Intelligent & Fuzzy Systems Journal of Advanced Transportation, 
+
+Engineering, Technology & Applied Science Research, and 
+
+Frontiers Built Environment
+ 
+ 
 I review for several journals. Some of the details of my reviewing can be found at [Publons](https://publons.com/researcher/3306585/usman-naseem/).
 
 <!-- [IEEE Journal of Biomedical And Health Informatics] (https://www.embs.org/jbhi/) -->
