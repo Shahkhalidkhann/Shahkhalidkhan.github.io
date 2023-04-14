@@ -13,7 +13,11 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=zR
 
 
 **Khan, S. K.**, Shiwakoti, N., Stasinopoulos, P., & Warren, M. (2023). A multinational empirical study of perceived cyber barriers to automated vehicles deployment. Scientific Reports, 13(1), 1842.
+
+
 **Khan, S. K.**, Shiwakoti, N., Stasinopoulos, P., & Warren, M. (2023). Modelling cybersecurity regulations for automated vehicles. Accident Analysis & Prevention, 186, 107054
+
+
 Sattar, A., Wang, L., Ansari, S., Hoshu, A. A., & **Khan, S. K.** (2023). Disturbance rejection enhancement using predictive control for the fixed‐wing UAV with multiple ailerons. International Journal of Adaptive Control and Signal Processing.
 **Khan, S. K.**, Shiwakoti, N., & Stasinopoulos, P. (2022). A conceptual system dynamics model for cybersecurity assessment of connected and autonomous vehicles. Accident Analysis & Prevention, 165, 106515.
 **Khan, S. K.**, Shiwakoti, N., Stasinopoulos, P., & Warren, M. (2022, June). Cybersecurity Readiness for Automated Vehicles. In 2022 International Conference on Frontiers of Artificial Intelligence and Machine Learning (FAIML) (pp. 7-12). IEEE.
