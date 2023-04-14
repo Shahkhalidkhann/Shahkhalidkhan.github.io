@@ -7,7 +7,7 @@ author_profile: true
 
 **Journal Reviewer**
 
- [Analysis & Prevention] (https://www.sciencedirect.com/journal/accident-analysis-and-prevention)
+ [Analysis & Prevention](https://www.sciencedirect.com/journal/accident-analysis-and-prevention)
  
 Artificial Intelligence Review, 
 
