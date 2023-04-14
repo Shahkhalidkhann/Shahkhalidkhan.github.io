@@ -36,7 +36,7 @@ Chen, Y., Shiwakoti, N., Stasinopoulos, P., & **Khan, S. K.** (2022). State-of-t
 Naseer, K., Qazi, J., Qazi, A., Avuglah, B. K., Tahir, R., Rasheed, R. A., **Khan, S. K.** & Naseem, U. (2022). Travel behaviour prediction amid covid-19 underlaying situational awareness theory and health belief model. Behaviour & Information Technology, 41(15), 3318-3328.
 
 
-Naseem, U., Razzak, I., Khan, S. K., & Prasad, M. (2021). A comprehensive survey on word representation models: From classical to state-of-the-art word representation language models. Transactions on Asian and Low-Resource Language Information Processing, 20(5), 1-35.
+Naseem, U., Razzak, I., **Khan, S. K.**, & Prasad, M. (2021). A comprehensive survey on word representation models: From classical to state-of-the-art word representation language models. Transactions on Asian and Low-Resource Language Information Processing, 20(5), 1-35.
 
 
 **Khan, S. K.**, Shiwakoti, N., Stasinopoulos, P., & Warren, M. (2021, November). Security assessment in Vehicle-to-Everything communications with the integration of 5G and 6G networks. In 2021 International Symposium on Computer Science and Intelligent Controls (ISCSIC) (pp. 154-158). IEEE.
