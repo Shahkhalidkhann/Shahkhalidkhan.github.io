@@ -32,37 +32,12 @@ author_profile: true
 [Frontiers in Artificial Intelligence ](https://www.frontiersin.org/journals/artificial-intelligence)
 
 
-**Conference Program Committee (PC)**
+Arranged **Transport@RMIT Networking Event** at RMIT University Melbourne, Australia   Nov 16, 2022
 
-PC for MM 2022
+Served as **High Degree Research Committee member** at RMIT University Melbourne, Australia (2019) 
 
-PC for ACL 2022 Workshop LT-EDI
+Served as 	**Graduate Research Committee member	** at RMIT University Melbourne, Australia (2021) 
 
-PC for NAACL 2022
-
-PC for MICCAI 2022
-
-PC for LREC 2022
-
-PC for ICWSM 2022
-
-PC for NeuRec Workshop at ICDM 2021
-
-PC for ICONIP 2021
-
-PC for ICONIP 2020
-
-**Conference External Reviewer or Sub-reviewer**
-
-IJCNN 2020, IJCNN 2021
-
-IJCAI 2020
-
-PAKDD 2020
-
-**Session Sessior**
-
-Session chair for NLP session at ICONIP-2020
 
 
 <!-- I am always keen to hear from potential candidates who are interested to join my team which mainly focuses on text mining, natural language processing (NLP), information retrieval using machine learning methods. We propose new methods (novel mathematical models) in machine learning. So, please feel free to get in touch if you are passionate about Mathematics or like solving interesting problems around search and NLP. -->
