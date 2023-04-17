@@ -9,45 +9,24 @@ author_profile: true
 
  [Accident Analysis & Prevention](https://www.sciencedirect.com/journal/accident-analysis-and-prevention)
  
-Artificial Intelligence Review, 
+[Artificial Intelligence Review](https://www.springer.com/journal/10462)
 
-Transactions on Emerging Telecommunications Technologies,
+[Transactions on Emerging Telecommunications Technologies](https://onlinelibrary.wiley.com/journal/21613915)
 
-Vehicular Communications Computer Networks and Communications, 
+[Vehicular Communications](https://www.sciencedirect.com/journal/vehicular-communications)
 
-IEEE Systems Journal,
+[Computer Networks and Communications](https://ojs.wiserpub.com/index.php/CNC/)
 
-IET Intelligent Transport Systems, 
+[IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=4267003)
 
-International Journal of Adaptive Control and Signal Processing, 
+[IET Intelligent Transport Systems](https://ietresearch.onlinelibrary.wiley.com/journal/17519578) 
 
-Journal of Intelligent & Fuzzy Systems Journal of Advanced Transportation, 
+[Journal of Intelligent & Fuzzy Systems Journal of Advanced Transportation](https://www.iospress.com/catalog/journals/journal-of-intelligent-fuzzy-systems)
 
-Engineering, Technology & Applied Science Research, and 
+[Engineering, Technology & Applied Science Research](https://www.etasr.com/index.php/ETASR)
 
-Frontiers Built Environment
+[Frontiers Built Environment](https://www.frontiersin.org/journals/built-environment?utm_source=ad&utm_medium=ggl-src&utm_campaign=sub_ggl_fbuil&gclid=CjwKCAjwue6hBhBVEiwA9YTx8KEwAdHqt-wEqXAvnppNl_Uyx4mBkM8-JoEEjCW9GJvl0uJNNcIX5hoCzJcQAvD_BwE) 
  
- 
-I review for several journals. Some of the details of my reviewing can be found at [Publons](https://publons.com/researcher/3306585/usman-naseem/).
-
-<!-- [IEEE Journal of Biomedical And Health Informatics] (https://www.embs.org/jbhi/) -->
-
-[IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/)
-
-<!-- [EEE Transactions on Computational Social Systems] (https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650) -->
-
-[IEEE Transactions on Computational Social System](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650)
-
-[EEE Access](https://ieeeaccess.ieee.org/)
-
-[EEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)
-
-[Big Data & Society](https://journals.sagepub.com/home/bds)
-
-[International Journal of Data Science and Analytics](https://www.springer.com/journal/41060)
-
-[Neural Computing & Applications](https://www.springer.com/journal/521)
-
 [PloS one](https://journals.plos.org/plosone/)
 
 [Frontiers in Artificial Intelligence ](https://www.frontiersin.org/journals/artificial-intelligence)
